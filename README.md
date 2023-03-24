@@ -8,6 +8,8 @@
   <h1 style="margin: 0;" align="center">CodeGPT</h1>
   <p>
     A JetBrains extension that allows you to use ChatGPT inside your favourite IDE
+    
+    
   </p>
 </div>
 
